@@ -5,10 +5,10 @@ This repository is for Drawing & STL files used to make the production version o
 
 There are 5 Rev C Files: 
 
-1. PDF Drawing showing the exploded view of the case
+1. PDF Drawing showing the exploded view of the case (W2_RevC-OpenSource_No_Vent.PDF) 
 
-2. 3 STL Files
+2. 3 STL Files (Bottom_Shell_C.STL , Top_Shell_Common_C.STL , WC_Insert_C.STL)
 
-3. Excel File BOM with purchase links to Wireless charging circuit, O-Rings, kapton tape, etc. 
+3. Excel File BOM with purchase links to Wireless charging circuit, O-Rings, kapton tape, etc. (W2_Open_BOM.xls)
 
 If you wish to purchase a complete kit to retrofit your RileyLink 1.0, with case made in injection molded polycarbonate, please visit https://getrileylink.org/product/w2case 
